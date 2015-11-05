@@ -1,2 +1,2 @@
 # Start_Lab
-start_lab
+This is Cnlab's repository.
